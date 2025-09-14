@@ -6,4 +6,5 @@ Student Database Management using Spring Boot 3.
 - Integrated Spring Security-6 for role-based authentication.
 - Validated endpoints using Postman.
 - Performed CRUD operations on Student data with specified roles.
+- Used Docker to containerize the project.
 
